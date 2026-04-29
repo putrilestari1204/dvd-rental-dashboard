@@ -40,7 +40,6 @@ Tab 4 — Film & Revenue
 
 <img width="1807" height="887" alt="image" src="https://github.com/user-attachments/assets/612e581c-a82d-45b9-ac6e-b428f68d8069" />
 
-<img width="1791" height="895" alt="image" src="https://github.com/user-attachments/assets/0c5981f0-371c-4e00-902f-c7c42648de60" />
 
 ---
 
