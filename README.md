@@ -1,6 +1,6 @@
 🎬 Film Performance Dashboard
 
-An interactive business analytics dashboard built with Streamlit, designed to help DVD rental businesses understand film performance, revenue trends, and customer behavior — without needing to write a single line of SQL.
+An interactive business analytics dashboard built with Streamlit, designed to help DVD rental businesses understand film performance, revenue trends, and customer behavior without needing to write a single line of SQL.
 
 ---
 
@@ -8,7 +8,7 @@ An interactive business analytics dashboard built with Streamlit, designed to he
 
 This dashboard connects directly to a PostgreSQL database (DVD Rental schema) and transforms raw rental data into clear, actionable insights across four analytical dimensions: **film performance**, **customer behavior**, **genre analysis**, and **revenue breakdown**.
 
-The goal wasn't just to build charts — it was to think like a business analyst: *what questions does a store manager actually need answered?* This dashboard answers them visually and intuitively.
+The goal wasn't just to build charts it was to think like a business analyst: *what questions does a store manager actually need answered?* This dashboard answers them visually and intuitively.
 
 ---
 
@@ -138,11 +138,11 @@ Open your browser at `http://localhost:8501`
 
 **Film Demand**
 - Best Sellers represent the top-performing titles driving the majority of rental revenue
-- Dead Stock films (never rented) represent a real financial risk — replacement cost with zero return on investment
+- Dead Stock films (never rented) represent a real financial risk replacement cost with zero return on investment
 - Late returns are a hidden revenue opportunity: recoverable through late fees
 
 **Revenue Patterns**
-- Genre revenue is uneven — a few categories dominate while others underperform despite similar inventory size
+- Genre revenue is uneven a few categories dominate while others underperform despite similar inventory size
 - Revenue per rental varies significantly by rating, revealing pricing inefficiencies
 
 **Customer Behavior**
