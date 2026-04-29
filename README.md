@@ -17,22 +17,30 @@ The goal wasn't just to build charts — it was to think like a business analyst
 Tab 1 — Overview
 > KPI summary, monthly rental trend, and genre ranking at a glance.
 
-*(Add screenshot here)*
+<img width="1821" height="876" alt="image" src="https://github.com/user-attachments/assets/0f35a33a-6927-4eb7-a747-056ae3843a88" />
+
+<img width="1585" height="693" alt="image" src="https://github.com/user-attachments/assets/1d7434ad-bc57-4d94-90e9-7f48d939c554" />
+
 
  Tab 2 — Film Performance
 > Demand tiers, linear regression predictions, and film segmentation.
 
-*(Add screenshot here)*
+<img width="1821" height="785" alt="image" src="https://github.com/user-attachments/assets/1b048980-86be-481b-b520-0acfd7589a3f" />
+
+<img width="1846" height="861" alt="image" src="https://github.com/user-attachments/assets/472c3c75-6420-4c0d-93eb-8fc16c7b45f6" />
+
 
 Tab 3 — Film & Customer
 > Customer reach by genre, return status analysis, and rental behavior.
 
-*(Add screenshot here)*
+<img width="1835" height="864" alt="image" src="https://github.com/user-attachments/assets/7302126d-2351-4eac-9113-d8f99f3226f6" />
 
 Tab 4 — Film & Revenue
 > Revenue by genre, top films, daily trend, and rating-based breakdown.
 
-*(Add screenshot here)*
+<img width="1807" height="887" alt="image" src="https://github.com/user-attachments/assets/612e581c-a82d-45b9-ac6e-b428f68d8069" />
+
+<img width="1791" height="895" alt="image" src="https://github.com/user-attachments/assets/0c5981f0-371c-4e00-902f-c7c42648de60" />
 
 ---
 
